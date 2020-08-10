@@ -20,8 +20,12 @@ My repo for CTF Tools i use.
 
 [PNG zsteg](https://github.com/zed-0xff/zsteg/)
 
+[Sonic Visualizer](/stego/SonicVisualiser-3.3-x86_64.AppImage)
+
 #### Audio
 [Audacity](https://www.audacityteam.org/)
+
+[SSTV](https://ourcodeworld.com/articles/read/956/how-to-convert-decode-a-slow-scan-television-transmissions-sstv-audio-file-to-images-using-qsstv-in-ubuntu-18-04)
 
 #### Files
 | Strings | exif | exiftool |
@@ -33,9 +37,17 @@ My repo for CTF Tools i use.
 
 ## Forensics
 #### Files
-|binwalk|foremost|Strings|exif|exiftool|hexedit|
+| binwalk | foremost | Strings | exif | exiftool | hexedit |
 ##### Memory dumps
 volatility
+##### USB
+[UsbRip](https://github.com/snovvcrash/usbrip)
+#### Invisible messages
+[Slack Space](https://techcyberz.wordpress.com/2014/01/30/hiding-data-slack-space-on-linux/)
+
+[Zero Width Hide Explained](https://hackaday.com/2018/04/15/hide-secret-messages-in-plain-sight-with-zero-width-characters/)
+
+[Zero Width Extractor](https://github.com/vedhavyas/zwfp)
 
 ## Cripto
 #### Automatic cripto analysis
@@ -81,6 +93,7 @@ volatility
 ## WEB
 ##### Web scanning
 [Raccon](https://github.com/evyatarmeged/Raccoon)
+
 | Nmap | Nikto |
 ##### Web fuzzing
 | Burp | wfuzz | sqlmap |
@@ -93,7 +106,7 @@ volatility
 [Boomerang Decompiler](https://github.com/BoomerangDecompiler/boomerang)
 
 #### C / C++ / C# / Unknow
-|Ghydra|hopper|frida|IDA|gdb|
+| Ghydra | hopper | frida | IDA | gdb |
 
 #### Java
 | Javasnoop | javac |
@@ -103,9 +116,15 @@ Apk tool
 
 #### EXTENSIONS
 User agent switcher
+
 Privacy badger
+
 builtwith
+
 foxyproxy
+
 https everywhere
+
 Nimbus capture
+
 wappalyzer
