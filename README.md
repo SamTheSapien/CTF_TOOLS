@@ -14,12 +14,15 @@ My repo for CTF Tools i use.
 
 [Stenography online](https://stylesuxx.github.io/steganography/)
 
+[StegSolve](/stegsolve.jar)
+
 [Steghide](https://github.com/StefanoDeVuono/steghide)
 
 [StegSolve](www.caesum.com/handbook/Stegsolve.jar)
 
 [PNG zsteg](https://github.com/zed-0xff/zsteg/)
 
+[Smart Deblur](https://github.com/Y-Vladimir/SmartDeblur)
 
 #### Audio
 [Sonic Visualizer](https://www.sonicvisualiser.org/)
