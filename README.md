@@ -138,3 +138,5 @@ https everywhere
 Nimbus capture
 
 wappalyzer
+
+Cookie Editor
