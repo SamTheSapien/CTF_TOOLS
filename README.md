@@ -121,7 +121,10 @@ volatility
 #### Android
 Apk tool
 
-#### EXTENSIONS
+## Binary Exploitation
+[Techniques and how to use tools](https://github.com/OpenToAllCTF/Tips)
+
+## EXTENSIONS
 User agent switcher
 
 Privacy badger
