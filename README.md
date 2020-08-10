@@ -16,12 +16,31 @@ My repo for CTF Tools i use.
 
 [Steghide](https://github.com/StefanoDeVuono/steghide)
 
+[StegSolve](www.caesum.com/handbook/Stegsolve.jar)
+
+[PNG zsteg](https://github.com/zed-0xff/zsteg/)
+
 #### Audio
+[Audacity](https://www.audacityteam.org/)
 
 #### Files
 | Strings | exif | exiftool |
 
+### Converters 
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+[Base64 decoder](https://www.base64decode.org/)
+
+## Forensics
+#### Files
+|binwalk|foremost|Strings|exif|exiftool|hexedit|
+##### Memory dumps
+volatility
+
 ## Cripto
+#### Automatic cripto analysis
+[featherduster](https://github.com/nccgroup/featherduster)
+
 #### Cypher Identifiers
 [Boxentric](https://www.boxentriq.com/code-breaking/cipher-identifier)
 
@@ -32,9 +51,15 @@ My repo for CTF Tools i use.
 [Rumkin](http://rumkin.com/tools/cipher/)
 
 #### RSA
+[RSA tool](https://github.com/ius/rsatool)
+
 [RSA CTF TOOL](https://github.com/Ganapati/RsaCtfTool)
 
-#### One time pad
+[Factorization website](https://www.alpertron.com.ar/ECM.HTM)
+
+[Factor DB](http://www.factordb.com/index.php?)
+
+#### One time pad (XOR cyphers)
 [Vulnerability explained](https://medium.com/@thuiya/reused-key-vulnerability-in-one-time-pad-for-ctf-9e1fc04015c)
 
 [Vulnerability explained 2](https://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html)
@@ -45,17 +70,42 @@ My repo for CTF Tools i use.
 
 [xorstrings](/cripto/xorstrings.py)
 
+[XorTool](https://github.com/hellman/xortool)
+
 ##### AES CBC Padding attack
 [Padding oracle attack](https://github.com/mpgn/Padding-oracle-attack)
 
-## Forensics
-#### Files
-|binwalk|Strings|exif|exiftool|hexedit|
-##### Memory dumps
-volatility
+#### HASH Attacks
+[Hash extension attack](https://github.com/iagox86/hash_extender)
+
+## WEB
+##### Web scanning
+[Raccon](https://github.com/evyatarmeged/Raccoon)
+| Nmap | Nikto |
+##### Web fuzzing
+| Burp | wfuzz | sqlmap |
+#### Automatic http header injector
+[Commix](https://github.com/commixproject/commix)
 
 
-## Converters 
-[CyberChef](https://gchq.github.io/CyberChef/)
+## Reverse Engeneering
+#### x86 to C
+[Boomerang Decompiler](https://github.com/BoomerangDecompiler/boomerang)
 
-[Base64 decoder](https://www.base64decode.org/)
+#### C / C++ / C# / Unknow
+|Ghydra|hopper|frida|IDA|gdb|
+
+#### Java
+| Javasnoop | javac |
+
+#### Android
+Apk tool
+
+#### EXTENSIONS
+User agent switcher
+Privacy badger
+builtwith
+foxyproxy
+https everywhere
+Nimbus capture
+wappalyzer
