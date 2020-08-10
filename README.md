@@ -20,9 +20,10 @@ My repo for CTF Tools i use.
 
 [PNG zsteg](https://github.com/zed-0xff/zsteg/)
 
-[Sonic Visualizer](/stego/SonicVisualiser-3.3-x86_64.AppImage)
 
 #### Audio
+[Sonic Visualizer](https://www.sonicvisualiser.org/)
+
 [Audacity](https://www.audacityteam.org/)
 
 [SSTV](https://ourcodeworld.com/articles/read/956/how-to-convert-decode-a-slow-scan-television-transmissions-sstv-audio-file-to-images-using-qsstv-in-ubuntu-18-04)
