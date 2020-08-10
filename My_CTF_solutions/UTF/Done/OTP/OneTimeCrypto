@@ -1,0 +1,22 @@
+encripted1: 213c234c2322282057730b32492e720b35732b2124553d354c22352224237f1826283d7b0651
+encripted2: 3b3b463829225b3632630b542623767f39674431343b353435412223243b7f162028397a103e
+
+Usar este site: https://toolbox.lotusfa.com/crib_drag/
+Teorica - http://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html
+
+1- python xorstrings.py 213c234c2322282057730b32492e720b35732b2124553d354c22352224237f1826283d7b0651 3b3b463829225b3632630b542623767f39674431343b353435412223243b7f162028397a103e
+2- xored: 1a0765740a007316651000666f0d04740c146f10106e0801796317010018000e06000401166f
+Este xored é as duas mensagens juntas.
+3- Descobri que era a conversa sobre o melhor ctf, meti isso neste site https://toolbox.lotusfa.com/crib_drag/
+até descobrir palavras que fizessem sentido. Aí consegui sacar as mensagens
+Confirmei com o script
+python cribdrag.py -c the 1a0765740a007316651000666f0d04740c146f10106e0801796317010018000e06000401166f
+com a crib=The best ctf category is cryptography!
+4-
+ms1: The best ctf category is cryptography!
+ms2: NO THE BEST ONE IS bINARY EXPLOITATION
+5-
+Xor da mensagem final com a inicial, para derivar a key		utflag{}
+http://xor.pw/
+utflag{tw0_tim3_p4dS}utflag{tw0_tim3_p
+FLAG: utflag{tw0_tim3_p4ds}

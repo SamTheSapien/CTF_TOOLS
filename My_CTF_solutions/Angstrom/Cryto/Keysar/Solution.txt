@@ -1,0 +1,7 @@
+1-Perceber que era uma Caesar mas com uma key.
+2-http://rumkin.com/tools/cipher/caesar-keyed.php
+3- text:  agqr{yue_stdcgciup_padas}
+	key:	ANGSTROMCTF	
+FOI USADO ESTE ALFABETO:
+ANGSTROMCFBDEHIJKLPQUVWXYZ
+4-actf{yum_delicious_salad} 

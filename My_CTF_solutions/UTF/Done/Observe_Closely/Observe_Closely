@@ -1,0 +1,7 @@
+1- Fazer binwalk e ver que tem um zip associado
+2- Extrair o zip da imagem
+3- Tem um elf, as libraries e um zip
+4- Ver o zip e extrair o elf que lá está
+5- Ver os elfs com cat ou strings e ver a flag
+Flag:
+utflag{2fbe9adc2ad89c71da48cabe90a121c0}

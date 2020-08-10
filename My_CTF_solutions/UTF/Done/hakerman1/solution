@@ -1,0 +1,10 @@
+1- extrair da imagem estragada
+2- Vi que o 40 tinha muito hexadecimal e era um exif
+3- Meter o 40 no hexa to ascii translator, ver que está lá uma imagem
+4- Recortar até aparecer aparecer em primeiro os magic bytes de um jpeg
+5- Fazer xxd -r -p <ficheiroHexa> > imagem (redirecionar para uma imagem)
+6- Flag na imagem!
+Flag:
+utflag{3lit3_h4ck3r}
+
+xxd -r -p 40
