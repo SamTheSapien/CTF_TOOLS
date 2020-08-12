@@ -56,6 +56,9 @@ volatility
 
 [Zero Width Extractor](https://github.com/vedhavyas/zwfp)
 
+#### Images
+pngcheck
+
 ## Cripto
 #### Automatic cripto analysis
 [featherduster](https://github.com/nccgroup/featherduster)
