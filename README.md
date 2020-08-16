@@ -42,6 +42,8 @@ My repo for CTF Tools i use.
 
 [Base64 decoder](https://www.base64decode.org/)
 
+[Enconding tools](https://encoding.tools/)
+
 ## Forensics
 #### Files
 | binwalk | foremost | Strings | exif | exiftool | hexedit |
