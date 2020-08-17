@@ -10,7 +10,7 @@ My repo for CTF Tools i use.
 
 ## Usefull tools
 
-![Tools](/Usefull CTF Tools.PNG)
+![Tools](https://github.com/SamTheSapien/CTF_TOOLS/blob/master/Usefull%20CTF%20Tools.PNG "Tools")
 
 ## Stego
 #### Images
