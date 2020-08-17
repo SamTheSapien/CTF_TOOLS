@@ -39,7 +39,7 @@ My repo for CTF Tools i use.
 
 #### Flag Codes
 
-[img1](/images/flags)
+[img1](/flags.pdf)
 
 ### Converters 
 [CyberChef](https://gchq.github.io/CyberChef/)
