@@ -37,6 +37,10 @@ My repo for CTF Tools i use.
 #### Files
 | Strings | exif | exiftool |
 
+#### Flag Codes
+
+[img1](/images/flags)
+
 ### Converters 
 [CyberChef](https://gchq.github.io/CyberChef/)
 
