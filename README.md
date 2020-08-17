@@ -37,9 +37,9 @@ My repo for CTF Tools i use.
 #### Files
 | Strings | exif | exiftool |
 
-#### Flag Codes
+#### Flags / Morse / Sign / Others
 
-[img1](/flags.pdf)
+[Flags, morse, Sign , others](/flags.pdf)
 
 ### Converters 
 [CyberChef](https://gchq.github.io/CyberChef/)
