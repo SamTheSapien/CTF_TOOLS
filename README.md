@@ -82,6 +82,12 @@ pngcheck
 
 [Rumkin](http://rumkin.com/tools/cipher/)
 
+#### Caesar (with a key)
+[Caesar with a key](http://rumkin.com/tools/cipher/caesar-keyed.php)
+
+#### Vigenère
+[Vigenère](https://www.guballa.de/vigenere-solver)
+
 #### RSA
 [RSA tool](https://github.com/ius/rsatool)
 
