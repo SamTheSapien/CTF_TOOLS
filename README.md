@@ -112,6 +112,9 @@ pngcheck
 #### Automatic http header injector
 [Commix](https://github.com/commixproject/commix)
 
+#### JSON WEB TOKENS
+[JWT](https://jwt.io/)
+
 
 ## Reverse Engeneering
 #### x86 to C
