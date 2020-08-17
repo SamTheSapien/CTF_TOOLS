@@ -8,6 +8,10 @@ My repo for CTF Tools i use.
 ## Fast Automatic Solvers
 [CTF KATANA](https://github.com/JohnHammond/ctf-katana)
 
+## Usefull tools
+
+![Tools](/Usefful CTF Tools.png)
+
 ## Stego
 #### Images
 [StegOnline](https://stegonline.georgeom.net/upload)
