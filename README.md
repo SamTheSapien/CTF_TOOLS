@@ -23,6 +23,11 @@ My repo for CTF Tools i use.
 
 [Steghide](https://github.com/StefanoDeVuono/steghide)
 
+[Stegcracker](https://github.com/Paradoxis/StegCracker)
+pip3 install stegcracker -U --force-reinstall
+stegcracker <FILE>
+(it defaults the wordlist to rockyou.txt)
+
 [StegSolve](www.caesum.com/handbook/Stegsolve.jar)
 (stegsolve info ..file..)
 
