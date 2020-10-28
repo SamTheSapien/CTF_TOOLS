@@ -4,6 +4,12 @@ My repo for CTF Tools i use.
 
 ## Awesome Public Repos
 [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+[Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+[Awesome Android](https://github.com/ashishb/android-security-awesome)
+[Awesome Security](https://github.com/sbilly/awesome-security)
+[Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
+[Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+
 
 ## Fast Automatic Solvers
 [CTF KATANA](https://github.com/JohnHammond/ctf-katana)
