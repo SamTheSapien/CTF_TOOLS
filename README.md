@@ -76,6 +76,8 @@ pngcheck
 
 ## Cripto
 #### Automatic cripto analysis
+[Ciphey](https://github.com/ciphey/ciphey)
+
 [featherduster](https://github.com/nccgroup/featherduster)
 
 #### Cypher Identifiers
